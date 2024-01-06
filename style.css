@@ -1,0 +1,30 @@
+body{
+    color:whitesmoke;
+    background:#2F2FA2;
+}
+
+h2{
+    background-color:#F64C72; 
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button{
+    background-color:#99738E; 
+}
+span{
+    font-size:30px;
+    margin-right: 15px;
+}
+#camera , #result {
+    border: 2px dashed #F64C72;
+    width: 350 px;
+    height: 300px;
+}
+
+.background{
+    background-color: #99738E;
+    border-radius: 5px;
+    padding: 6px;
+}
+
