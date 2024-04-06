@@ -1,30 +1,35 @@
-body{
-    color:whitesmoke;
-    background:#2F2FA2;
+body
+{
+  color: white;
+  background: #e77761;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #results
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
 }
 
-h2{
-    background-color:#F64C72; 
-    padding: 20px;
-    border-radius: 10px;
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  background-color:rgb(255, 229, 111);
+  color: black;
 }
-
-button{
-    background-color:#99738E; 
-}
-span{
-    font-size:30px;
-    margin-right: 15px;
-}
-#camera , #result {
-    border: 2px dashed #F64C72;
-    width: 350 px;
-    height: 300px;
-}
-
-.background{
-    background-color: #99738E;
-    border-radius: 5px;
-    padding: 6px;
-}
-
